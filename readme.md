@@ -2,7 +2,7 @@
 
 ### Estatísticas
 
-![Estatísticas do GitHub de Matheus](https://github-readme-stats.vercel.app/api?username=DevStrawberry&show_icons=true&theme=radical) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DevStrawberry&layout=compact&theme=radical&langs_count=10)
+![Estatísticas do GitHub de Matheus](https://github-readme-stats.vercel.app/api?username=matheushstrindade&show_icons=true&theme=radical) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushstrindade&layout=compact&theme=radical&langs_count=10)
 
 **Linguagens de Programação**
 <p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"> </p>
