@@ -3,7 +3,7 @@
 ### Estatísticas
 
 ![Estatísticas do GitHub de Matheus](https://github-readme-stats.vercel.app/api?username=matheushstrindade&show_icons=true&theme=radical) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushstrindade&layout=compact&theme=radical&langs_count=10)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OsmaneNeto&layout=compact&theme=radical&langs_count=10)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushstrindade&layout=compact&theme=radical&langs_count=10)
 
 **Linguagens de Programação**
 <p align="left"> 
